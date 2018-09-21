@@ -1,0 +1,7 @@
+C:\XamStudioProjects\SolidApp\SolidCode\bin\Debug\SolidCode.exe.config
+C:\XamStudioProjects\SolidApp\SolidCode\bin\Debug\SolidCode.exe
+C:\XamStudioProjects\SolidApp\SolidCode\bin\Debug\SolidCode.pdb
+C:\XamStudioProjects\SolidApp\SolidCode\obj\Debug\SolidCode.csprojAssemblyReference.cache
+C:\XamStudioProjects\SolidApp\SolidCode\obj\Debug\SolidCode.csproj.CoreCompileInputs.cache
+C:\XamStudioProjects\SolidApp\SolidCode\obj\Debug\SolidCode.exe
+C:\XamStudioProjects\SolidApp\SolidCode\obj\Debug\SolidCode.pdb
